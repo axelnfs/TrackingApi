@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "TrackingApi.Controllers.TrackingController",
+    "Method": "RecibirDatos",
+    "RelativePath": "api/Tracking",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "TrackingApi.Models.TrackingModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
